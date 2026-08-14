@@ -43,13 +43,13 @@ alt="Building Digital Systems"
 │                              DEVELOPER CORE                                  │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  NAME        : Matheus Xavier                                               │
-│  ROLE        : Software Developer                                           │
-│  EDUCATION   : Análise e Desenvolvimento de Sistemas                       │
-│  LOCATION    : Brazil                                                       │
+│  NAME        : Matheus Xavier                                                │
+│  ROLE        : Software Developer                                            │
+│  EDUCATION   : Análise e Desenvolvimento de Sistemas                         │
+│  LOCATION    : Brazil                                                        │
 │                                                                              │
-│  INTERESTS   : Software • Automation • Systems • Technology • AI            │
-│  MINDSET     : Build → Test → Analyze → Optimize                            │
+│  INTERESTS   : Software • Automation • Systems • Technology • AI             │
+│  MINDSET     : Build → Test → Analyze → Optimize                             │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -264,51 +264,32 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <a href="https://github.com/matheus-cx">
-<img
-src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F0FF"
-alt="GitHub"
-/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F0FF"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.instagram.com/matheus.cx7/">
-<img
-src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00F0FF"
-alt="Instagram"
-/>
+  <img
+    src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=00F0FF"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/matheus-cx7/">
-<img
-src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F0FF"
-alt="LinkedIn"
-/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F0FF"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:matheusxevier.tech@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00F0FF"
+    alt="Email"
+  />
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com/?lines=%3E+END_OF_TRANSMISSION;%3E+SYSTEM+ONLINE;%3E+KEEP+BUILDING.&font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=30"
-alt="Footer Animation"
-/>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:00F0FF,50:07131A,100:050505"
-width="100%"
-alt="Footer"
-/>
-
-<br>
-
-<sub>
-SYSTEM CORE • MATHEUS XAVIER • SOFTWARE DEVELOPMENT
-</sub>
-
-</div>
