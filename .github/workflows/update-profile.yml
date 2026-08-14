@@ -1,0 +1,116 @@
+name: Update GitHub Profile
+
+on:
+schedule:
+- cron: "0 3 * * *"
+
+workflow_dispatch:
+
+push:
+branches:
+- main
+- master
+
+permissions:
+contents: write
+
+jobs:
+
+generate-profile-assets:
+name: Generate Profile Assets
+runs-on: ubuntu-latest
+
+```
+steps:
+
+  - name: Checkout repository
+    uses: actions/checkout@v6
+
+  # ─────────────────────────────────────────────
+  # GITHUB STATS
+  # ─────────────────────────────────────────────
+
+  - name: Generate GitHub Stats
+    uses: stats-organization/github-readme-stats-action@v2
+    with:
+      card: stats
+      options: username=matheus-cx&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=00000000
+      path: profile/stats.svg
+
+  # ─────────────────────────────────────────────
+  # TOP LANGUAGES
+  # ─────────────────────────────────────────────
+
+  - name: Generate Top Languages
+    uses: stats-organization/github-readme-stats-action@v2
+    with:
+      card: top-langs
+      options: username=matheus-cx&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=00000000
+      path: profile/top-langs.svg
+
+  # ─────────────────────────────────────────────
+  # GITHUB TROPHIES
+  # ─────────────────────────────────────────────
+
+  - name: Generate GitHub Trophies
+    uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+    with:
+      username: matheus-cx
+      output_path: profile/trophy.svg
+      token: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────────
+  # COMMIT PROFILE ASSETS
+  # ─────────────────────────────────────────────
+
+  - name: Commit profile assets
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add profile/
+
+      git diff --staged --quiet || git commit -m "chore: update profile statistics"
+
+      git push
+```
+
+generate-snake:
+name: Generate Contribution Snake
+runs-on: ubuntu-latest
+
+```
+steps:
+
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  # ─────────────────────────────────────────────
+  # GENERATE SNAKE
+  # ─────────────────────────────────────────────
+
+  - name: Generate Snake Animation
+    uses: Platane/snk/svg-only@v3
+    with:
+      github_user_name: matheus-cx
+      outputs: |
+        dist/github-snake.svg
+        dist/github-snake-dark.svg?palette=github-dark
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ─────────────────────────────────────────────
+  # PUBLISH OUTPUT BRANCH
+  # ─────────────────────────────────────────────
+
+  - name: Publish Snake
+    uses: crazy-max/ghaction-github-pages@v3.1.0
+    with:
+      build_dir: dist
+      target_branch: output
+      commit_message: "chore: update contribution snake"
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
