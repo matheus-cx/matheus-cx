@@ -11,16 +11,15 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+DEVELOPER+CORE...;%3E+LOADING+SYSTEMS...;%3E+FULL+STACK+DEVELOPMENT;%3E+BUILDING+DIGITAL+SYSTEMS;%3E+ANALYZING+%E2%80%A2+BUILDING+%E2%80%A2+OPTIMIZING;%3E+SYSTEM+READY+%5B100%25%5D"
-alt="System initialization"
-
->
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+DEVELOPER+CORE...;%3E+LOADING+SYSTEMS...;%3E+FULL+STACK+DEVELOPMENT;%3E+BUILDING+DIGITAL+SYSTEMS;%3E+ANALYZING+%E2%80%A2+BUILDING+%E2%80%A2+OPTIMIZING;%3E+SYSTEM+READY+%5B100%25%5D"
+alt="System initialization typing animation"
+/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Status Online">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Status">
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-111111?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Software Engineering">
-<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20SYSTEMS-111111?style=for-the-badge&logo=rocket&logoColor=00F0FF" alt="Building Digital Systems">
+<img src="https://img.shields.io/badge/BUILDING-DIGITAL%20SYSTEMS-111111?style=for-the-badge&logo=rocket&logoColor=00F0FF" alt="Building">
 
 </div>
 
@@ -44,9 +43,9 @@ alt="System initialization"
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em transformar ideias em produtos e sistemas funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em transformar ideias em produtos e sistemas funcionais.
 
-Minha experiência prática envolve principalmente **desenvolvimento web, sistemas administrativos, bancos de dados e construção de soluções digitais**, utilizando tecnologias como PHP, JavaScript, MySQL, HTML e CSS.
+Minha experiência prática envolve **desenvolvimento web, sistemas administrativos, bancos de dados e construção de soluções digitais**, utilizando principalmente PHP, JavaScript, MySQL, HTML e CSS.
 
 Tenho interesse especial por projetos que envolvem **lógica, resolução de problemas, automação, sistemas completos e tecnologia aplicada a negócios**.
 
@@ -148,10 +147,10 @@ Landing page e sistema desenvolvido para uma academia, combinando
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 
 </td>
 
@@ -166,10 +165,10 @@ Sistema para operação de uma pizzaria envolvendo
 
 <br>
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 
 </td>
 
@@ -205,25 +204,25 @@ Sistema para operação de uma pizzaria envolvendo
 <div align="center">
 
 <a href="https://github.com/matheus-cx">
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=matheus-cx&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=00000000&include_all_commits=true&count_private=true"
-  alt="GitHub Stats"
-/>
+  <img
+    height="180"
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+  />
 </a>
 
 <a href="https://github.com/matheus-cx">
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-cx&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=00000000&langs_count=8"
-  alt="Top Languages"
-/>
+  <img
+    height="180"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </a>
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=matheus-cx&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=777777&sideNums=FFFFFF&currStreakNum=FFFFFF"
+src="https://streak-stats.demolab.com/?user=matheus-cx&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=777777&sideNums=FFFFFF&currStreakNum=FFFFFF&background=00000000"
 width="90%"
 alt="GitHub Streak"
 />
@@ -251,7 +250,7 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=matheus-cx&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"
+src="./profile/trophy.svg"
 width="95%"
 alt="GitHub Trophies"
 />
@@ -265,19 +264,23 @@ alt="GitHub Trophies"
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/matheus-cx/matheus-cx/output/github-snake.svg"
+ width="100%"
+ alt="GitHub Contribution Snake"
+/>
+
 </picture>
 
 </div>
@@ -309,22 +312,6 @@ alt="GitHub Trophies"
 />
 </a>
 
-<!--
-ATENÇÃO:
-Substitua SOMENTE o valor abaixo pelo seu e-mail real.
-Exemplo:
-<a href="mailto:matheusxavier@gmail.com">
--->
-
-<!--
-<a href="mailto:SEU_EMAIL_AQUI">
-<img
-  src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00F0FF"
-  alt="Email"
-/>
-</a>
--->
-
 </div>
 
 ---
@@ -334,7 +321,7 @@ Exemplo:
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+END_OF_TRANSMISSION;%3E+SYSTEM+ONLINE;%3E+KEEP+BUILDING."
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E+END_OF_TRANSMISSION;%3E+SYSTEM+ONLINE;%3E+KEEP+BUILDING."
 alt="Footer animation"
 />
 
